@@ -1,0 +1,12 @@
+.daad{
+    width: 100%;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+}
+.butt{
+   width: 68px;
+   height: 68px;
+   margin: 5px;
+   border: 1px solid black;
+}
